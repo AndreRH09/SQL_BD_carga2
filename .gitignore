@@ -1,0 +1,45 @@
+# Ignorar archivos de compilación de NetBeans
+Cooperativa_CREVIS/build/
+Cooperativa_CREVIS/nbproject/private/
+Cooperativa_CREVIS/nbbuild/
+Cooperativa_CREVIS/dist/
+Cooperativa_CREVIS/nbdist/
+Cooperativa_CREVIS/.nb-gradle/
+Cooperativa_CREVIS/out/
+
+# Ignorar archivos específicos de NetBeans
+Cooperativa_CREVIS/nbproject/private/
+Cooperativa_CREVIS/nbproject/Makefile-*
+Cooperativa_CREVIS/nbproject/Package-*
+*.bak
+*.orig
+
+# Ignorar archivos de compilación
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignorar archivos de configuración del sistema
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# Ignorar archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de Maven
+.mvn/
+target/
+
+# Ignorar archivos de configuración de Gradle
+.gradle/
+build/
+
+# Ignorar archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
